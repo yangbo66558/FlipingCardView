@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FlipingCardView</string>
+    <string name="anim_length">3000</string>
+    <string name="half_anim_length">1500</string>
+    <string name="text_back">背面</string>
+    <string name="text_front">正面</string>
+
 </resources>
